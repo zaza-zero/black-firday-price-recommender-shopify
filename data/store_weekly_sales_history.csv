@@ -1,0 +1,81 @@
+store_id,product_id,product_name,category,week_start_date,week_of_year,price,units_sold,promo_flag,holiday_flag
+shp-48213,P-1001,Heavyweight Pullover Hoodie,Apparel,2022-11-07,45,89.00,28,0,0
+shp-48213,P-1004,Stoneware Camp Mug,Home,2022-11-07,45,28.00,14,0,0
+shp-48213,P-1002,Ribbed Merino Beanie,Apparel,2022-11-07,45,38.00,18,0,0
+shp-48213,P-1003,Waxed Canvas Tote,Accessories,2022-11-14,46,62.00,9,0,0
+shp-48213,P-1002,Ribbed Merino Beanie,Apparel,2022-11-14,46,38.00,22,0,0
+shp-48213,P-1001,Heavyweight Pullover Hoodie,Apparel,2022-11-14,46,89.00,31,0,0
+shp-48213,P-1001,Heavyweight Pullover Hoodie,Apparel,2022-11-21,47,71.20,112,1,1
+shp-48213,P-1003,Waxed Canvas Tote,Accessories,2022-11-21,47,52.00,38,1,1
+shp-48213,P-1004,Stoneware Camp Mug,Home,2022-11-21,47,22.00,58,1,1
+shp-48213,P-1002,Ribbed Merino Beanie,Apparel,2022-11-21,47,28.00,84,1,1
+shp-48213,P-1002,Ribbed Merino Beanie,Apparel,2022-11-28,48,32.00,61,1,1
+shp-48213,P-1004,Stoneware Camp Mug,Home,2022-11-28,48,25.00,37,1,1
+shp-48213,P-1001,Heavyweight Pullover Hoodie,Apparel,2022-11-28,48,75.00,74,1,1
+shp-48213,P-1003,Waxed Canvas Tote,Accessories,2022-11-28,48,58.00,24,0,1
+shp-48213,P-1001,Heavyweight Pullover Hoodie,Apparel,2022-12-05,49,89.00,36,0,0
+shp-48213,P-1002,Ribbed Merino Beanie,Apparel,2022-12-12,50,38.00,29,0,0
+shp-48213,P-1004,Stoneware Camp Mug,Home,2022-12-19,51,25.00,33,0,1
+shp-48213,P-1003,Waxed Canvas Tote,Accessories,2022-12-19,51,62.00,17,0,1
+shp-48213,P-1001,Heavyweight Pullover Hoodie,Apparel,2022-12-19,51,79.00,52,0,1
+shp-48213,P-1002,Ribbed Merino Beanie,Apparel,2022-12-26,52,32.00,47,0,1
+shp-48213,P-1001,Heavyweight Pullover Hoodie,Apparel,2022-12-26,52,71.20,61,1,1
+shp-48213,P-1001,Heavyweight Pullover Hoodie,Apparel,2023-01-09,2,79.00,24,0,0
+shp-48213,P-1002,Ribbed Merino Beanie,Apparel,2023-01-09,2,34.00,14,0,0
+shp-48213,P-1002,Ribbed Merino Beanie,Apparel,2023-02-06,6,34.00,11,0,0
+shp-48213,P-1001,Heavyweight Pullover Hoodie,Apparel,2023-02-06,6,79.00,19,0,0
+shp-48213,P-1003,Waxed Canvas Tote,Accessories,2023-03-06,10,62.00,7,0,0
+shp-48213,P-1004,Stoneware Camp Mug,Home,2023-05-01,18,28.00,12,0,0
+shp-48213,P-1001,Heavyweight Pullover Hoodie,Apparel,2023-04-03,14,79.00,16,0,0
+shp-48213,P-1003,Waxed Canvas Tote,Accessories,2023-06-05,23,68.00,0,0,0
+shp-48213,P-1004,Stoneware Camp Mug,Home,2023-07-03,27,28.00,10,0,0
+shp-48213,P-1003,Waxed Canvas Tote,Accessories,2023-08-07,32,68.00,6,0,0
+shp-48213,P-1001,Heavyweight Pullover Hoodie,Apparel,2023-09-04,36,89.00,22,0,0
+shp-48213,P-1003,Waxed Canvas Tote,Accessories,2023-10-02,40,62.00,11,0,0
+shp-48213,P-1001,Heavyweight Pullover Hoodie,Apparel,2023-10-02,40,89.00,27,0,0
+shp-48213,P-1002,Ribbed Merino Beanie,Apparel,2023-10-16,42,38.00,17,0,0
+shp-48213,P-1001,Heavyweight Pullover Hoodie,Apparel,2023-10-16,42,89.00,33,0,0
+shp-48213,P-1002,Ribbed Merino Beanie,Apparel,2023-10-30,44,38.00,21,0,0
+shp-48213,P-1006,Holiday Enamel Pin Set,Accessories,2023-11-06,45,18.00,24,0,0
+shp-48213,P-1001,Heavyweight Pullover Hoodie,Apparel,2023-11-06,45,89.00,35,0,0
+shp-48213,P-1002,Ribbed Merino Beanie,Apparel,2023-11-20,47,28.00,96,1,1
+shp-48213,P-1006,Holiday Enamel Pin Set,Accessories,2023-11-13,46,18.00,37,0,0
+shp-48213,P-1002,Ribbed Merino Beanie,Apparel,2023-11-13,46,34.00,31,0,0
+shp-48213,P-1001,Heavyweight Pullover Hoodie,Apparel,2023-11-13,46,79.00,41,0,0
+shp-48213,P-1001,Heavyweight Pullover Hoodie,Apparel,2023-11-20,47,64.00,138,1,1
+shp-48213,P-1003,Waxed Canvas Tote,Accessories,2023-11-20,47,52.00,44,1,1
+shp-48213,P-1004,Stoneware Camp Mug,Home,2023-11-20,47,22.00,64,1,1
+shp-48213,P-1006,Holiday Enamel Pin Set,Accessories,2023-11-20,47,18.00,112,0,1
+shp-48213,P-1001,Heavyweight Pullover Hoodie,Apparel,2023-11-27,48,71.20,86,1,1
+shp-48213,P-1002,Ribbed Merino Beanie,Apparel,2023-11-27,48,32.00,58,1,1
+shp-48213,P-1003,Waxed Canvas Tote,Accessories,2023-11-27,48,58.00,29,1,1
+shp-48213,P-1004,Stoneware Camp Mug,Home,2023-11-27,48,25.00,41,0,1
+shp-48213,P-1002,Ribbed Merino Beanie,Apparel,2023-11-20,47,28.00,96,1,1
+shp-48213,P-1006,Holiday Enamel Pin Set,Accessories,2023-12-04,49,18.00,41,0,0
+shp-48213,P-1002,Ribbed Merino Beanie,Apparel,2023-12-04,49,38.00,26,0,0
+shp-48213,P-1003,Waxed Canvas Tote,Accessories,2023-12-11,50,62.00,14,0,0
+shp-48213,P-1001,Heavyweight Pullover Hoodie,Apparel,2023-12-11,50,89.00,38,0,0
+shp-48213,P-1001,Heavyweight Pullover Hoodie,Apparel,2023-12-18,51,79.00,57,0,1
+shp-48213,P-1002,Ribbed Merino Beanie,Apparel,2023-12-18,51,34.00,39,0,1
+shp-48213,P-1004,Stoneware Camp Mug,Home,2023-12-25,52,25.00,22,0,1
+shp-48213,P-1002,Ribbed Merino Beanie,Apparel,2024-01-15,3,32.00,19,0,0
+shp-48213,P-1001,Heavyweight Pullover Hoodie,Apparel,2024-01-15,3,75.00,21,1,0
+shp-48213,P-1004,Stoneware Camp Mug,Home,2024-03-11,11,28.00,13,0,0
+shp-48213,P-1003,Waxed Canvas Tote,Accessories,2024-05-13,20,68.00,5,0,0
+shp-48213,P-1007,Leather Key Fob,Accessories,2024-06-10,24,26.00,5,0,0
+shp-48213,P-1004,Stoneware Camp Mug,Home,2024-07-08,28,28.00,11,0,0
+shp-48213,P-1003,Waxed Canvas Tote,Accessories,2024-08-12,33,62.00,8,0,0
+shp-48213,P-1007,Leather Key Fob,Accessories,2024-08-26,35,26.00,4,0,0
+shp-48213,P-1005,Cedar & Smoke Soy Candle,Home,2024-09-23,39,34.00,14,0,0
+shp-48213,P-1001,Heavyweight Pullover Hoodie,Apparel,2024-09-16,38,89.00,26,0,0
+shp-48213,P-1005,Cedar & Smoke Soy Candle,Home,2024-09-16,38,34.00,11,0,0
+shp-48213,P-1007,Leather Key Fob,Accessories,2024-09-30,40,24.00,9,1,0
+shp-48213,P-1005,Cedar & Smoke Soy Candle,Home,2024-09-30,40,34.00,9,0,0
+shp-48213,P-1001,Heavyweight Pullover Hoodie,Apparel,2024-10-14,42,89.00,34,0,0
+shp-48213,P-1005,Cedar & Smoke Soy Candle,Home,2024-10-14,42,34.00,16,0,0
+shp-48213,P-1007,Leather Key Fob,Accessories,2024-10-14,42,26.00,7,0,0
+shp-48213,P-1004,Stoneware Camp Mug,Home,2024-10-21,43,28.00,17,0,0
+shp-48213,P-1002,Ribbed Merino Beanie,Apparel,2024-10-21,43,38.00,23,0,0
+shp-48213,P-1005,Cedar & Smoke Soy Candle,Home,2024-10-21,43,34.00,13,0,0
+shp-48213,P-1003,Waxed Canvas Tote,Accessories,2024-10-28,44,62.00,12,0,0
+shp-48213,P-1005,Cedar & Smoke Soy Candle,Home,2024-10-28,44,34.00,18,0,0
